@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Yihune Ayitenew 👋
 
-<!--
-**yodahie21/yodahie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate from **Debre Markos University**  
+💻 Passionate Full-Stack & Software Developer  
+✉️ Reach out to me: **yihunayitenew49@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+**Languages & Frameworks:**
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** PHP, Node.js, C++, Java
+- **Database & Cloud:** MySQL, Firebase
+
+---
+
+### 🚀 Projects
+
+Here are some of the key projects I have developed:
+
+- **Online Clearance System (DMUBC):** Web application to streamline student clearance processes.
+- **Property Management System (DMUBC):** System for tracking and managing institutional assets.
+- **Image Search Engine:** Search platform utilizing external APIs/algorithms for media retrieval.
+- **Online Class Scheduling System:** Timetable and schedule management application for academic environments.
+- **Text to Voice Converter:** Tool converting text inputs into clear speech output.
+- **Calculator App:** Functional utility application built with clean UI.
+
+---
+
+📫 **Get in Touch:** [yihunayitenew49@gmail.com](mailto:yihunayitenew49@gmail.com)
