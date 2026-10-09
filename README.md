@@ -14,7 +14,7 @@
 
 <br>
 
-## <img width="22" height="87" alt="IMG_20260226_041426_574" src="https://github.com/user-attachments/assets/d5959e8f-c79a-4e1a-be2a-3dd8662ff504" />
+## <img width="100" height="120" alt="IMG_20260226_041426_574" src="https://github.com/user-attachments/assets/d5959e8f-c79a-4e1a-be2a-3dd8662ff504" />
  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="160" alt="Coding GIF" />
