@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=180&section=header&text=Yihune%20Ayitenew&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
-## <img width="100" height="120" alt="IMG_20260226_041426_574" src="https://github.com/user-attachments/assets/d5959e8f-c79a-4e1a-be2a-3dd8662ff504" />
+  <img width="100" height="120" alt="IMG_20260226_041426_574" src="https://github.com/user-attachments/assets/d5959e8f-c79a-4e1a-be2a-3dd8662ff504" />
   <h3>🎓 Computer Science Graduate & Full-Stack Developer</h3>
   <p><i>Building modern web applications with a focus on clean code & scalable systems.</i></p>
 
@@ -13,7 +13,7 @@
 </div>
 
 <br>
-About Me
+ 👨‍💻 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="160" alt="Coding GIF" />
 
