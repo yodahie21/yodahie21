@@ -17,7 +17,7 @@
 ## <img width="2122" height="3287" alt="IMG_20260226_041426_574" src="https://github.com/user-attachments/assets/d5959e8f-c79a-4e1a-be2a-3dd8662ff504" />
  About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="260" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="60" alt="Coding GIF" />
 
 🎓 **Education** &nbsp;::&nbsp; Computer Science Graduate from **Debre Markos University** <br>
 💻 **Tech Stack** &nbsp;::&nbsp; React, Node.js, PHP, JS, C++, Java, Firebase & MySQL <br>
