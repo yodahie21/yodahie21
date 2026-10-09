@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=180&section=header&text=Yihune%20Ayitenew&fontSize=42&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,24,32&height=80&section=header&text=Yihune%20Ayitenew&fontSize=42&animation=fadeIn&fontColor=ffffff" width="20%" />
 
   <h3>🎓 Computer Science Graduate & Full-Stack Developer</h3>
   <p><i>Building modern web applications with a focus on clean code & scalable systems.</i></p>
